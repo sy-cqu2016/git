@@ -9,5 +9,7 @@ public class GitTest {
         System.out.println("hot fix text");
         System.out.println("master2 text");
         System.out.println("hot fix2 text");
+        System.out.println("hot fix32 text");
+        
     }
 }
